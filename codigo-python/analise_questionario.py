@@ -1,6 +1,3 @@
-# Link ou localização do arquivo CSV utilizado na análise
-# https://www.google.com/url?q=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1cOSK931Vzqdd6KEfSojSYd84hi-o9Jg7NBarFwThRng
-
 # import os
 import glob
 import textwrap
